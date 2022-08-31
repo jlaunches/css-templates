@@ -28,7 +28,7 @@
   background: #fff;
   border: 1px solid #ccc;
   display: none;
-  flex-grow 1;
+  flex-grow: 1;
   order: 99;
   padding: 1rem;
   width: 100%;
